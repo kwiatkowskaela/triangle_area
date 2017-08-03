@@ -3,7 +3,7 @@
 var a = prompt('wpisz długość boku trójkąta');
 var h = prompt('wpisz wysokość trójkąta');
 var triangleArea = a * h / 2;
-alert('Pole trójkąta, ' + a * h / 2);
+alert('Pole trójkąta, ' + a * h / 2 + 'cm2');
 console.log('Pole trójkąta, ' + triangleArea);
 
 
